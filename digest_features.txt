@@ -1,0 +1,9 @@
+- interesting data for team: 
+    - win/loss streaks
+    - games differential 
+    - games behind team A 
+    - team stats (RBI/OPS/ERA)
+- interesting data for player: 
+    - games/AB without hits
+    - hit streaks
+    - ERA for X games

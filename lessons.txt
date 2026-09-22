@@ -1,0 +1,4 @@
+API Best Practice
+
+- Always raise status code for response
+- Always include a timeout for GET
